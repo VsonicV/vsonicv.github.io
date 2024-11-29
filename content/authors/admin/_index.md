@@ -151,6 +151,6 @@ awards:
       received twice in 2009 and 2011
 ---
 
-## About Me
+## About Xin Qiu (仇昕)
 
 This is a home page still in construction. Please ignore those incomplete contents inherited from the template.
