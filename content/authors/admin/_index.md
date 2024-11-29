@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xin Qiu (仇昕)
+title: Xin Qiu | 仇昕
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher (Director)
+role: Researcher / Director
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,12 +31,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:qiuxin.nju@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
@@ -53,38 +49,33 @@ interests:
   - Evolutionary Computation
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: Ph.D Artificial Intelligence
     institution: National University of Singapore
     date_start: 2012-08-06
     date_end: 2016-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      - Awardee of NGS Scholarship (now renamed ISEP Scholarship)
+      - Thesis title: Differential Evolution-based Methods for Numerical Optimization
+      - Supervisors: Prof. Kay Chen Tan (IEEE Fellow) and Prof. Jian-Xin Xu (IEEE Fellow)
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: BEng Electrical Engineering
+      url: 'https://scholarbank.nus.edu.sg/handle/10635/134464'
+  - area: B.Eng Electrical Engineering
     institution: Nanjing University
     date_start: 2008-09-06
     date_end: 2012-06-30
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Awardee of National Scholarship (awarded to top 0.2% undergraduate students in China)
+      - Major GPA: 92.02/100
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Director
+    company_name: Cognizant AI Labs
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-07-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
