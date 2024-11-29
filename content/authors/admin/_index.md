@@ -128,13 +128,13 @@ awards:
     icon: 
     summary: |
       Best Paper Award of the General Evolutionary Computation and Hybrids (GECH) track at the Genetic and Evolutionary Computation Conference (GECCO) 2020.
-  - title: NGS Scholarship (now renamed ISEP Scholarship)
+  - title: NGS Scholarship
     url: https://isep.nus.edu.sg/about/
     date: '2012-08-06'
     awarder: NUS Graduate School for Integrative Sciences and Engineering
     icon: 
     summary: |
-      SGD$ 247600 for 4 years' Ph.D studies (2012-2016)
+      Now renamed ISEP Scholarship. SGD$ 247600 for 4 years' Ph.D studies (2012-2016)
   - title: National Scholarship
     url: 
     date: '2010-11-30'
