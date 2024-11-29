@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 仇昕
+title: Xin Qiu
 
 # Name pronunciation (optional)
-name_pronunciation: Xin Qiu
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Xin
