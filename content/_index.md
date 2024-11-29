@@ -21,10 +21,10 @@ sections:
     design:
       css_class: light
       background:
-        color: white
+        color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: ''
+          filename: 17580.svg
           filters:
             brightness: 1.0
           size: cover
