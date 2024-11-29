@@ -69,7 +69,7 @@ education:
       - Major GPA: 92.02/100
 work:
   - position: Director
-    company_name: Cognizant AI Labs
+    company_name: Cognizant AI Labs, San Francisco
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
@@ -77,7 +77,7 @@ work:
     summary: |2-
 
   - position: Associate Director
-    company_name: Cognizant AI Labs
+    company_name: Cognizant AI Labs, San Francisco
     company_url: ''
     company_logo: ''
     date_start: 2019-06-01
@@ -85,7 +85,7 @@ work:
     summary: |
 
   - position: Senior Research Scientist
-    company_name: Sentient Technologies
+    company_name: Sentient Technologies, San Francisco
     company_url: ''
     company_logo: ''
     date_start: 2017-05-12
@@ -94,13 +94,12 @@ work:
       Research team acquired by Cognizant
 
   - position: Software Engineer
-    company_name: Sea
+    company_name: Sea, Singapore
     company_url: ''
     company_logo: ''
     date_start: 2017-01-01
     date_end: 2017-03-31
     summary: |
-      Research team acquired by Cognizant
 
 # Awards.
 #   Add/remove as many awards below as you like.
