@@ -134,7 +134,7 @@ awards:
     awarder: NUS Graduate School for Integrative Sciences and Engineering
     icon: 
     summary: |
-      Now renamed ISEP Scholarship. SGD$ 247600 for 4 years' Ph.D studies (2012-2016)
+      SGD$ 247600 for 4 years' Ph.D studies (2012-2016). Now renamed ISEP Scholarship.
   - title: National Scholarship
     url: 
     date: '2010-11-30'
