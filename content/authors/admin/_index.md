@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xin Qiu
+title: Xin Qiu (仇昕)
 
 # Name pronunciation (optional)
 name_pronunciation:
