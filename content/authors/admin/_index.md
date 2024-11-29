@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xin Qiu | 仇昕
+title: Xin Qiu 仇昕
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -75,60 +75,32 @@ work:
     date_start: 2024-07-01
     date_end: ''
     summary: |2-
-    
-  - position: Backend Software Engineer
-    company_name: X
+
+  - position: Associate Director
+    company_name: Cognizant AI Labs
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2019-06-01
+    date_end: 2024-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  - position: Senior Research Scientist
+    company_name: Sentient Technologies
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-05-12
+    date_end: 2019-05-31
+    summary: |
+      Research team acquired by Cognizant
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - position: Software Engineer
+    company_name: Sea
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-01-01
+    date_end: 2017-03-31
+    summary: |
+      Research team acquired by Cognizant
 
 # Awards.
 #   Add/remove as many awards below as you like.
