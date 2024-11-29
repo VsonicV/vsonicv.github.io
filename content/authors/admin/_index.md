@@ -3,7 +3,7 @@
 title: Xin Qiu
 
 # Name pronunciation (optional)
-name_pronunciation: 仇昕
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Xin
@@ -106,33 +106,51 @@ work:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Best Paper Award, GA @ GECCO 2022
+    url:
+    date: '2022-07-31'
+    awarder: the Genetic and Evolutionary Computation Conference (GECCO) 2022
+    icon:
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Best Paper Award of the Genetic Algorithms (GA) track at the Genetic and Evolutionary Computation Conference (GECCO) 2022.
+  - title: Silver Award, Humies @ GECCO 2022
+    url: https://gecco-2022.sigevo.org/Humies
+    date: '2022-07-31'
+    awarder: the Genetic and Evolutionary Computation Conference (GECCO) 2022
+    icon: 
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Silver Award in the Human Competitive Results Competition at the Genetic and Evolutionary Computation Conference (GECCO) 2022.
+  - title: Best Paper Award, GECH @ GECCO'2020
+    url: 
+    certificate_url: 
+    date: '2020-07-31'
+    awarder: the Genetic and Evolutionary Computation Conference (GECCO) 2020
+    icon: 
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Best Paper Award of the General Evolutionary Computation and Hybrids (GECH) track at the Genetic and Evolutionary Computation Conference (GECCO) 2020.
+  - title: NGS Scholarship (now renamed ISEP Scholarship)
+    url: https://isep.nus.edu.sg/about/
+    date: '2012-08-06'
+    awarder: NUS Graduate School for Integrative Sciences and Engineering
+    icon: 
+    summary: |
+      SGD$ 247600 for 4 years' Ph.D studies (2012-2016)
+  - title: National Scholarship
+    url: 
+    date: '2010-11-30'
+    awarder: Chinese Ministry of Education
+    icon: 
+    summary: |
+      awarded to top 0.2% undergraduate students in China
+  - title: Scholarship of People
+    url: 
+    date:
+    awarder: Chinese Ministry of Education
+    icon: 
+    summary: |
+      received twice in 2009 and 2011
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This is a home page still in construction. Please ignore those incomplete contents inherited from the template.
