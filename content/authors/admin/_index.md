@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Xin Qiu 仇昕
+title: Xin Qiu
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: 仇昕
 
 # Full name (for SEO)
 first_name: Xin
@@ -49,7 +49,7 @@ interests:
   - Evolutionary Computation
 
 education:
-  - area: Ph.D Artificial Intelligence
+  - area: Ph.D, Artificial Intelligence
     institution: National University of Singapore
     date_start: 2012-08-06
     date_end: 2016-12-31
@@ -60,7 +60,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://scholarbank.nus.edu.sg/handle/10635/134464'
-  - area: B.Eng Electrical Engineering
+  - area: B.Eng, Electrical Engineering
     institution: Nanjing University
     date_start: 2008-09-06
     date_end: 2012-06-30
