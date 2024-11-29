@@ -55,8 +55,8 @@ interests:
 education:
   - area: PhD Artificial Intelligence
     institution: National University of Singapore
-    date_start: 2012-08
-    date_end: 2016-12
+    date_start: 2012-08-06
+    date_end: 2016-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -64,8 +64,8 @@ education:
       url: 'https://example.com'
   - area: BEng Electrical Engineering
     institution: Nanjing University
-    date_start: 2008-09
-    date_end: 2012-06
+    date_start: 2008-09-06
+    date_end: 2012-06-30
     summary: |
       GPA: 3.8/4.0
 
