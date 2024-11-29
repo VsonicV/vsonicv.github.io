@@ -34,13 +34,11 @@ profiles:
     url: 'mailto:qiuxin.nju@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/VsonicV
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/xin-qiu-4a5ba0116/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=SET9oYsAAAAJ&hl=en
 
 interests:
   - Uncertainty Quantification
