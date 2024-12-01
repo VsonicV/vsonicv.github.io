@@ -4,7 +4,7 @@ date: 2023-10-24
 type: landing
 
 design:
-  spacing: '5rem'
+  spacing: '1rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -18,6 +18,8 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: true
+      spacing:
+        padding: [100px, 0, 0, 0]
   - block: resume-awards
     content:
       title: Awards
