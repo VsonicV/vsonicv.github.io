@@ -23,6 +23,4 @@ sections:
     content:
       title: Awards
       username: admin
-    design:
-      spacing: '1rem'
 ---
