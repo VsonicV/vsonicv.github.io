@@ -19,7 +19,7 @@ sections:
       # Education or Experience section first?
       is_education_first: true
       spacing:
-        padding: [20px, 0, 0, 0]
+        padding: [100px, 0, 0, 0]
   - block: resume-awards
     content:
       title: Awards
