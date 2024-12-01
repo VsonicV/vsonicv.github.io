@@ -7,6 +7,7 @@
 appearance:
   mode: light
   color: emerald
+  font_size: m
 
 # SEO
 marketing:
