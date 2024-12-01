@@ -25,7 +25,7 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI-2022)*, oral presentation (top ~4.5% of all submissions)'
+publication: '*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2022)*, oral presentation (top ~4.5% of all submissions)'
 publication_short: ''
 
 doi: 10.1609/aaai.v36i7.20773

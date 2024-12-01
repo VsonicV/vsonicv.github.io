@@ -25,7 +25,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 40th International Conference on Machine Learning*'
+publication: '*Proceedings of the 40th International Conference on Machine Learning (ICML 2023)*'
 publication_short: ''
 
 doi: ''

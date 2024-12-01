@@ -26,7 +26,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*International Conference on Learning Representations*'
+publication: '*International Conference on Learning Representations (ICLR 2020)*'
 publication_short: ''
 
 doi: ''

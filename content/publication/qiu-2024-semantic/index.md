@@ -26,7 +26,7 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*The Thirty-eighth Annual Conference on Neural Information Processing
-  Systems*'
+  Systems (NeurIPS 2024)*'
 publication_short: ''
 
 doi: ''
