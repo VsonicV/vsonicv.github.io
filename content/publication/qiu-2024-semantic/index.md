@@ -36,7 +36,7 @@ abstract: 'With the widespread application of Large Language Models (LLMs) to va
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [Large Language Models]
+tags: [NeurIPS 2024]
 
 # Display this page in a list of Featured pages?
 featured: true
