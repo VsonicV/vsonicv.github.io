@@ -30,6 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
+      spacing:
+        padding: [0, 0, 66px, 0]
   - block: collection
     id: papers
     content:
@@ -41,6 +43,4 @@ sections:
     design:
       view: article-grid
       columns: 2
-      spacing:
-        padding: [100px, 0, 0, 0]
 ---
