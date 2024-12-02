@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: mail
+  - icon: custom/mail
     url: 'mailto:qiuxin.nju@gmail.com'
     label: E-mail Me
   - icon: brands/github
