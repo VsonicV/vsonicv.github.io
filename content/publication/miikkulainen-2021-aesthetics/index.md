@@ -33,7 +33,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*'
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*, Silver Award in the Human Competitive Results Competition at GECCO 2022'
 publication_short: ''
 
 doi: 10.1145/3449639.3459378

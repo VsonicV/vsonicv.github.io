@@ -29,7 +29,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 2020 Genetic and Evolutionary Computation Conference*'
+publication: '*Proceedings of the 2020 Genetic and Evolutionary Computation Conference*, Best Paper Award of the General Evolutionary Computation and Hybrids (GECH) track'
 publication_short: ''
 
 doi: 10.1145/3377930.3389842

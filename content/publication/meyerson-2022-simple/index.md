@@ -26,7 +26,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*'
+publication: '*Proceedings of the Genetic and Evolutionary Computation Conference*, Best Paper Award of the Genetic Algorithms (GA) track'
 publication_short: ''
 
 doi: 10.1145/3512290.3528746
