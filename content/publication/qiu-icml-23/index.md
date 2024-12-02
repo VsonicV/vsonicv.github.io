@@ -26,11 +26,11 @@ publication_types:
 
 # Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the 40th International Conference on Machine Learning (ICML 2023)*'
-publication_short: 'ICML 2023'
+publication_short: ''
 
 doi: ''
 
-abstract: ''
+abstract: 'Population-based search has recently emerged as a possible alternative to Reinforcement Learning (RL) for black-box neural architecture search (NAS). It performs well in practice even though it is not theoretically well understood. In particular, whereas traditional population-based search methods such as evolutionary algorithms (EAs) draw much power from crossover operations, it is difficult to take advantage of them in NAS. The main obstacle is believed to be the permutation problem: The mapping between genotype and phenotype in traditional graph representations is many-to-one, leading to a disruptive effect of standard crossover. This paper presents the first theoretical analysis of the behaviors of mutation, crossover and RL in black-box NAS, and proposes a new crossover operator based on the shortest edit path (SEP) in graph space. The SEP crossover is shown theoretically to overcome the permutation problem, and as a result, have a better expected improvement compared to mutation, standard crossover and RL. Further, it empirically outperform these other methods on state-of-the-art NAS benchmarks. The SEP crossover therefore allows taking full advantage of population-based search in NAS, and the underlying theory can serve as a foundation for deeper understanding of black-box NAS methods in general.'
 
 # Summary. An optional shortened abstract.
 summary: ''
@@ -41,14 +41,14 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/abs/2210.14016'
+url_code: 'https://github.com/cognizant-ai-labs/sepx-paper'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://nn.cs.utexas.edu/downloads/posters/qiu.icml23.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://slideslive.com/39003842/shortest-edit-path-crossover-a-theorydriven-solution-to-the-permutation-problem-in-evolutionary-neural-architecture-search?ref=speaker-22915'
 
 # Custom links (uncomment lines below)
 # links:
