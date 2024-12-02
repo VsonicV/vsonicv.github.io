@@ -18,7 +18,7 @@ author_notes: []
 date: '2018-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-12-02T09:43:08.322831Z'
+publishDate: '2024-12-02T09:50:57.807392Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -36,10 +36,7 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Optimization;Sociology;Statistics;Algorithm design and analysis;Robustness;Linear
-  programming;Genetic algorithms;Differential evolution (DE);evolutionary algorithm
-  (EA);minimax optimization problem;robust design
+tags: []
 
 # Display this page in a list of Featured pages?
 featured: false

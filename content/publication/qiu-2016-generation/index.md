@@ -19,7 +19,7 @@ author_notes: []
 date: '2016-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-12-02T09:43:08.379385Z'
+publishDate: '2024-12-02T09:50:57.867619Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -37,10 +37,7 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Optimization;Sociology;Statistics;Convergence;Evolutionary computation;Search problems;Algorithm
-  design and analysis;Differential evolution;mutation operation;multi-objective optimization;Differential
-  evolution (DE);multiobjective optimization (MO);mutation operation;parameter adaptation
+tags: []
 
 # Display this page in a list of Featured pages?
 featured: false

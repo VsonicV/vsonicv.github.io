@@ -17,7 +17,7 @@ author_notes: []
 date: '2016-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2024-12-02T09:43:08.345053Z'
+publishDate: '2024-12-02T09:50:57.828727Z'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -35,11 +35,7 @@ abstract: ''
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags:
-- Urban areas;Algorithm design and analysis;Traveling salesman problems;Optimization;Genetic
-  algorithms;Biological cells;Evolutionary computation;Evolutionary multi-objective
-  optimization;differential evolution;multiple traveling salesman problem;opposition-based
-  learning;self-adaptation
+tags: []
 
 # Display this page in a list of Featured pages?
 featured: false
