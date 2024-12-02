@@ -35,10 +35,10 @@ abstract: 'Population-based search has recently emerged as a possible alternativ
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: []
+tags: [Neural Architecture Search]
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: 'https://arxiv.org/pdf/2210.14016'
