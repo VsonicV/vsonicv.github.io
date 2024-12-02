@@ -8,7 +8,7 @@ title: Evolution is the new deep learning
 authors:
 - Risto Miikkulainen
 - Babak Hodjat
-- Xin Qiu
+- admin
 - Jason Liang
 - Elliot Meyerson
 - Aditya Rawal

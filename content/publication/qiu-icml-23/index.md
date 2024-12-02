@@ -41,7 +41,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: 'https://arxiv.org/abs/2210.14016'
+url_pdf: 'https://arxiv.org/pdf/2210.14016'
 url_code: 'https://github.com/cognizant-ai-labs/sepx-paper'
 url_dataset: ''
 url_poster: 'https://nn.cs.utexas.edu/downloads/posters/qiu.icml23.pdf'

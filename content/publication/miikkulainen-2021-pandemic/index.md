@@ -10,7 +10,7 @@ authors:
 - Risto Miikkulainen
 - Olivier Francon
 - Elliot Meyerson
-- Xin Qiu
+- admin
 - Darren Sargent
 - Elisa Canzani
 - Babak Hodjat

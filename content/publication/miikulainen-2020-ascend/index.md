@@ -15,7 +15,7 @@ authors:
 - Jingbo Jiang
 - Diego Legrand
 - Sam Nazari
-- Xin Qiu
+- admin
 - Michael Scharff
 - Cory Schoolland
 - Robert Severn

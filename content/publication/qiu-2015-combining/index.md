@@ -6,7 +6,7 @@ title: A Novel Multi-objective Optimization Framework Combining NSGA-II and MOEA
 # If you created a profile for a user (e.g. the default `admin` user at `content/authors/admin/`), 
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
-- Xin Qiu
+- admin
 - Ye Huang
 - Kay Chen Tan
 

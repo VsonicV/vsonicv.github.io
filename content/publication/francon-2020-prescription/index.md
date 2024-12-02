@@ -11,7 +11,7 @@ authors:
 - Babak Hodjat
 - Elliot Meyerson
 - Risto Miikkulainen
-- Xin Qiu
+- admin
 - Hormoz Shahrzad
 
 # Author notes (such as 'Equal Contribution')

@@ -7,7 +7,7 @@ title: A Novel Diversity Maintenance Scheme for Evolutionary Multi-objective Opt
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Sen Bong Gee
-- Xin Qiu
+- admin
 - Kay Chen Tan
 
 # Author notes (such as 'Equal Contribution')

@@ -8,7 +8,7 @@ title: Simple genetic operators are universal approximators of probability distr
 # write the username (folder name) here, and it will be replaced with their full name and linked to their profile.
 authors:
 - Elliot Meyerson
-- Xin Qiu
+- admin
 - Risto Miikkulainen
 
 # Author notes (such as 'Equal Contribution')

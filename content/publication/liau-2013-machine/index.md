@@ -9,7 +9,7 @@ authors:
 - Yung Siang Liau
 - Kay Chen Tan
 - Jun Hu
-- Xin Qiu
+- admin
 - Sen Bong Gee
 
 # Author notes (such as 'Equal Contribution')

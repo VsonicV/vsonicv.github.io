@@ -42,14 +42,14 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2405.13845'
+url_code: 'https://github.com/cognizant-ai-labs/semantic-density-paper'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://recorder-v3.slideslive.com/#/share?share=96622&s=2bb1e69f-e558-4744-b9f5-1a967a9622fc'
 
 # Custom links (uncomment lines below)
 # links:

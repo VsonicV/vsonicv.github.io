@@ -42,14 +42,14 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/1906.00588'
+url_code: 'https://github.com/cognizant-ai-labs/rio-paper'
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://iclr.cc/virtual_2020/poster_rkxNh1Stvr.html'
 
 # Custom links (uncomment lines below)
 # links:

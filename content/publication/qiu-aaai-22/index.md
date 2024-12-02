@@ -41,8 +41,8 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2010.02065'
+url_code: 'https://github.com/cognizant-ai-labs/red-paper'
 url_dataset: ''
 url_poster: ''
 url_project: ''

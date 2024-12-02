@@ -8,7 +8,7 @@ title: Evaluating medical aesthetics treatments through evolved age-estimation m
 authors:
 - Risto Miikkulainen
 - Elliot Meyerson
-- Xin Qiu
+- admin
 - Ujjayant Sinha
 - Raghav Kumar
 - Karen Hofmann
