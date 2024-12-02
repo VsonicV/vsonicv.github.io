@@ -35,7 +35,7 @@ abstract: 'As neural network classifiers are deployed in real-world applications
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [AAAI 2022 Oral]
+tags: [AAAI 2022]
 
 # Display this page in a list of Featured pages?
 featured: true
