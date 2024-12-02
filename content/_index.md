@@ -42,5 +42,5 @@ sections:
       view: article-grid
       columns: 2
       spacing:
-        padding: [66px, 0, 0, 0]
+        padding: [100px, 0, 0, 0]
 ---
