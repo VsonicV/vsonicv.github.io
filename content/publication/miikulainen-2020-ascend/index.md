@@ -84,4 +84,3 @@ links:
   url: https://ojs.aaai.org/aimagazine/index.php/aimagazine/article/view/5256
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.

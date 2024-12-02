@@ -22,7 +22,7 @@ publishDate: '2024-12-02T09:50:57.784371Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- article-journal
+- paper-conference
 
 # Publication name and optional abbreviated publication name.
 publication: '*Proceedings of the AAAI Conference on Artificial Intelligence*'
@@ -72,5 +72,3 @@ links:
 - name: URL
   url: https://ojs.aaai.org/index.php/AAAI/article/view/5019
 ---
-
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
