@@ -118,7 +118,7 @@ awards:
     icon: 
     summary: |
       Silver Award in the Human Competitive Results Competition at the Genetic and Evolutionary Computation Conference (GECCO) 2022.
-  - title: Best Paper Award, GECH @ GECCO'2020
+  - title: Best Paper Award, GECH @ GECCO 2020
     url: 
     certificate_url: 
     date: '2020-07-31'
