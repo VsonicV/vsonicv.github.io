@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "Principal Research Scientist \n Senior Director"
+role: "Principal Research Scientist Senior Director Principal Research Scientist Senior Director Principal Research Scientist Senior Director"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
