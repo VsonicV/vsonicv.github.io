@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Researcher / Director
+role: Principal Research Scientist / Senior Director
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -66,12 +66,20 @@ education:
       - Awardee of National Scholarship (awarded to top 0.2% undergraduate students in China)
       - Major GPA: 92.02/100
 work:
+  - position: Senior Director / Principal Research Scientist
+    company_name: Cognizant AI Labs, San Francisco
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-01-01
+    date_end: ''
+    summary: |2-
+    
   - position: Director
     company_name: Cognizant AI Labs, San Francisco
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
-    date_end: ''
+    date_end: 2024-12-31
     summary: |2-
 
   - position: Associate Director
