@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Prin. Research Scientist / Sr. Director
+role: Sr. Director / Principal Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
