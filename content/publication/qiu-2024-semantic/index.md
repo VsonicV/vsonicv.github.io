@@ -45,11 +45,11 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2405.13845'
 url_code: 'https://github.com/cognizant-ai-labs/semantic-density-paper'
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://neurips.cc/media/PosterPDFs/NeurIPS%202024/95598.png?t=1733561512.3820007'
 url_project: ''
-url_slides: ''
+url_slides: 'https://neurips.cc/media/neurips-2024/Slides/95598.pdf'
 url_source: ''
-url_video: 'https://recorder-v3.slideslive.com/#/share?share=96622&s=2bb1e69f-e558-4744-b9f5-1a967a9622fc'
+url_video: 'https://neurips.cc/virtual/2024/poster/95598'
 
 # Custom links (uncomment lines below)
 # links:
