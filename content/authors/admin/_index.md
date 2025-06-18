@@ -21,7 +21,7 @@ highlight_name: true
 
 # Role/position/tagline
 role: |
-  Sr. Director<br/>
+  Senior Director<br/>
   Principal Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
