@@ -24,8 +24,8 @@ role: Sr. Director / Prin. Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Cognizant AI Labs
-    url: https://evolution.ml/
+  - name: Cognizant AI Lab
+    url: https://www.cognizant.com/us/en/ai-lab
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -67,7 +67,7 @@ education:
       - Major GPA: 92.02/100
 work:
   - position: Senior Director / Principal Research Scientist
-    company_name: Cognizant AI Labs, San Francisco
+    company_name: Cognizant AI Lab, San Francisco
     company_url: ''
     company_logo: ''
     date_start: 2025-01-01
@@ -75,7 +75,7 @@ work:
     summary: |2-
     
   - position: Director
-    company_name: Cognizant AI Labs, San Francisco
+    company_name: Cognizant AI Lab, San Francisco
     company_url: ''
     company_logo: ''
     date_start: 2024-07-01
@@ -83,7 +83,7 @@ work:
     summary: |2-
 
   - position: Associate Director
-    company_name: Cognizant AI Labs, San Francisco
+    company_name: Cognizant AI Lab, San Francisco
     company_url: ''
     company_logo: ''
     date_start: 2019-06-01
@@ -159,6 +159,6 @@ awards:
 
 ## About Me
 
-Hi, I'm Xin Qiu (仇昕), an AI researcher at [Cognizant AI Labs](https://evolution.ml/). I obtained my Ph.D degree from NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore in 2016 and B.Eng degree from the School of Electronic Science and Engineering, Nanjing University in 2012. In the scientific world, I'm still a curious kid that loves challenging puzzles. My current research involves:
+Hi, I'm Xin Qiu (仇昕), an AI researcher at [Cognizant AI Lab](https://www.cognizant.com/us/en/ai-lab/). I obtained my Ph.D degree from NUS Graduate School for Integrative Sciences and Engineering, National University of Singapore in 2016 and B.Eng degree from the School of Electronic Science and Engineering, Nanjing University in 2012. In the scientific world, I'm still a curious kid that loves challenging puzzles. My current research involves:
 - developing systematic solutions to quantify the trustworthiness of responses returned by large Language models
 - utilizing the power of evolution to resolve architecture/graph search problems
