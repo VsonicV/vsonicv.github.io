@@ -43,10 +43,10 @@ profiles:
     url: https://scholar.google.com/citations?user=SET9oYsAAAAJ&hl=en
 
 interests:
+  - Evolutionary Computation
   - Uncertainty Quantification
   - Large Language Models
   - Neural Architecture Search
-  - Evolutionary Computation
 
 education:
   - area: Ph.D, Artificial Intelligence
